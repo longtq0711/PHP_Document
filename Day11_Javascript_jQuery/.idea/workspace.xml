@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6909c41c-64ca-48b7-acf4-f5be3f207951" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Code_demo_tren_lop/Draft/demo_add_number.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code_demo_tren_lop/Draft/demo_add_number.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_demo_tren_lop/Draft/demo_jquery.html" beforeDir="false" afterPath="$PROJECT_DIR$/Code_demo_tren_lop/Draft/demo_jquery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slide_bai_giang/Javascript_jQuery.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/Slide_bai_giang/Javascript_jQuery.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day16_PHP_Operator_Condition_Loop/Slides/2_String_Function_PHP.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day16_PHP_Operator_Condition_Loop/Slides/2_String_Function_PHP.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day16_PHP_Operator_Condition_Loop/Slides/3_Number_Function_PHP.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day16_PHP_Operator_Condition_Loop/Slides/3_Number_Function_PHP.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day17_PHP_Array_Function_Array_Time/Slides/1_Array_Foreach.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day17_PHP_Array_Function_Array_Time/Slides/1_Array_Foreach.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day17_PHP_Array_Function_Array_Time/Slides/2_Array_Function_PHP.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day17_PHP_Array_Function_Array_Time/Slides/2_Array_Function_PHP.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day17_PHP_Array_Function_Array_Time/Slides/3_Number_Function_PHP.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day17_PHP_Array_Function_Array_Time/Slides/3_Number_Function_PHP.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day17_PHP_Array_Function_Array_Time/Slides/4_String_Function_PHP.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day17_PHP_Array_Function_Array_Time/Slides/4_String_Function_PHP.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day17_PHP_Array_Function_Array_Time/Slides/5_Time_Function_PHP.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day17_PHP_Array_Function_Array_Time/Slides/5_Time_Function_PHP.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day18_PHP_Form/Slides/4_Time_Function_PHP.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day18_PHP_Form/Slides/4_Time_Function_PHP.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day19_Process_File_Form_Upload/Slides/1_Process_File.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day19_Process_File_Form_Upload/Slides/1_Process_File.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day19_Process_File_Form_Upload/Slides/3_Form_Security.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day19_Process_File_Form_Upload/Slides/3_Form_Security.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day20_PHP_Session_Cookie/Slides/1_Session_Cookie.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day20_PHP_Session_Cookie/Slides/1_Session_Cookie.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day20_PHP_Session_Cookie/Slides/2_Form_Security.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day20_PHP_Session_Cookie/Slides/3_Number_Function_PHP.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day20_PHP_Session_Cookie/Slides/4_String_Function_PHP.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day20_PHP_Session_Cookie/Slides/5_Time_Function_PHP.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day20_PHP_Session_Cookie/Slides/~$1_Session_Cookie.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day26_PHP_OOP_Basic/Slides/4_Connect_MySQL_Use_PDO.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day26_PHP_OOP_Basic/Slides/4_Connect_MySQL_Use_PDO.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day27_OOP_PDO_And_MVC/Slides/3_Connect_MySQL_Use_PDO.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day27_OOP_PDO_And_MVC/Slides/3_Connect_MySQL_Use_PDO.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day35_PHP_MVC_Demo_Upload_Hosting_Payment/mvc_demo/frontend/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../Day35_PHP_MVC_Demo_Upload_Hosting_Payment/mvc_demo/frontend/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day35_PHP_MVC_Demo_Upload_Hosting_Payment/mvc_demo/frontend/controllers/CartController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day35_PHP_MVC_Demo_Upload_Hosting_Payment/mvc_demo/frontend/controllers/CartController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day35_PHP_MVC_Demo_Upload_Hosting_Payment/mvc_demo/php0720e_project.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Day35_PHP_MVC_Demo_Upload_Hosting_Payment/mvc_demo/php0720e_project.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day35_PHP_MVC_Demo_Upload_Hosting_Payment/mvc_demo_upload/frontend/configs/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day35_PHP_MVC_Demo_Upload_Hosting_Payment/mvc_demo_upload/frontend/configs/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/Laravel_co_ban.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/Laravel_co_ban.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/backend/configs/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/backend/configs/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/backend/models/Pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/backend/models/Pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/backend/models/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/backend/models/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/configs/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/configs/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/controllers/CartController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/controllers/CartController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/controllers/PaymentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/controllers/PaymentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/controllers/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/libraries/nganluong/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/libraries/nganluong/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/models/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/models/Order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/models/OrderDetail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/models/OrderDetail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/views/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/frontend/views/layouts/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day36_PHP_MVC_Demo_Payment_Laravel/mvc_demo/php0720e_project.sql" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="979736824">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code_demo_tren_lop/Draft/demo_add_number.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Code_demo_tren_lop/demo_jquery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1734" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code_demo_tren_lop/Draft/demo_jquery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-418">
+              <caret line="141" column="12" selection-start-line="141" selection-start-column="12" selection-end-line="145" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Code_demo_tren_lop/Draft/demo_add_number.html" />
+        <option value="$PROJECT_DIR$/Code_demo_tren_lop/Draft/demo_jquery.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-138" />
+    <option name="y" value="24" />
+    <option name="width" value="1113" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Day11_Javascript_jQuery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day11_Javascript_jQuery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day11_Javascript_jQuery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day11_Javascript_jQuery" type="462c0819:PsiDirectoryNode" />
+              <item name="Code_demo_tren_lop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day11_Javascript_jQuery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day11_Javascript_jQuery" type="462c0819:PsiDirectoryNode" />
+              <item name="Code_demo_tren_lop" type="462c0819:PsiDirectoryNode" />
+              <item name="Draft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day11_Javascript_jQuery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day11_Javascript_jQuery" type="462c0819:PsiDirectoryNode" />
+              <item name="Code_demo_tren_lop" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Laravel_project" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6909c41c-64ca-48b7-acf4-f5be3f207951" name="Default Changelist" comment="" />
+      <created>1618452619127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618452619127</updated>
+      <workItem from="1618452622471" duration="3341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3341000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Code_demo_tren_lop/Draft/demo_add_number.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code_demo_tren_lop/Draft/demo_jquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="141" column="12" selection-start-line="141" selection-start-column="12" selection-end-line="145" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code_demo_tren_lop/demo_jquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1734" />
+      </provider>
+    </entry>
+  </component>
+</project>

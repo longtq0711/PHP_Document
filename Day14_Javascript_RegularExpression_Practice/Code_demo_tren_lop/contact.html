@@ -1,0 +1,111 @@
+<!--
+contact.html: nằm cùng cấp với file on_tap_whcj.html
+copy nội dung file on_tap_whcj.html cho file contact.html
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form liên hệ</title>
+	<style type="text/css">
+		ul li {
+			display: inline-block;
+		}
+	</style>
+</head>
+<body>
+	<!-- + Dựng khung HTML, chia bố cục thành các phần như header, main-content, footer .... Trong quá trình dựng khung HTML, cần chèn class và xác định trước cấu trúc hàng/cột nếu có -->
+	<div class="container">
+		<div class="header">
+			<ul>
+				<li><a href="home.html">Trang chủ</a></li>
+				<li><a href="contact.html">Liên hệ</a></li>
+			</ul>
+		</div>
+		<div class="main-content">
+			<h1>Form liên hệ</h1>
+			<form action="" method="post" id="form">
+				Nhập tên: <input type="text" id="name" />
+				<br />
+				Nhập tuổi: <input type="text" id="age" />
+				<br />
+				Nhập email: <input type="text" id="email" />
+				<br />
+				Chọn giới tính: 
+				<input type="radio" name="gender" id="male" value="male" /> Nam
+				<input type="radio" name="gender" id="female" value="female"> Nữ
+				<input type="radio" name="gender" id="other" value="other" /> Khác
+				<br />
+				Chọn quốc gia:
+				<select id="country">
+					<option value="0">VN</option>
+					<option value="1">Japan</option>
+					<option value="2">Korea</option>
+				</select>
+				<br />
+				<textarea id="note" rows="5" cols="10"></textarea>
+				<br />
+				<input type="submit" value="Gửi thông tin" />
+			</form>
+			<h3 id="error" style="color: red"></h3>
+		</div>
+		<div class="footer">
+			FOOTER
+		</div>
+	</div>
+	<script type="text/javascript">
+		// Yêu cầu validate cho form liên hệ:
+		// + Tất cả các trường ko dc để trống
+		// + Trường Nhập tuổi phải nhập số
+		// + Trường Email phải có định dạng email
+
+		// - Lấy ra đối tượng form để gắn sự kiện submit
+		var obj_form = document.getElementById('form');
+		obj_form.addEventListener('submit', function() {
+			// + Tạo các biến chứa thông tin lỗi và kết quả
+			var error = '';
+			var result = '';
+			// + Lấy các đối tượng input và giá trị tương ứng theo id
+			// Lấy đối tượng và giá trị của input tên
+			var obj_name = document.getElementById('name');
+			var name = obj_name.value;
+			// LẤy obj và value của input tuổi
+			var obj_age = document.getElementById('age');
+			var age = obj_age.value;
+			// Lấy obj và value của input email
+			var obj_email = document.getElementById('email');
+			var email = obj_email.value;
+			// + Validate form theo yêu cầu đề bài
+			// Từng trường ko đc để trống
+			// Khai báo chuỗi regex để kiểm tra định dạng email: phải chứa duy nhất 1 ký tự @, phía trước và sau ký tự @ là số/chữ ít nhất 2 ký tự trở lên
+			var pattern_email = /^[0-9a-zA-Z_]{2,}@[0-9a-zA-Z]{2,}\.{0,}[0-9a-zA-Z]{2,}$/;
+
+			if (name == '') {
+				error = 'Name phải nhập';
+				//Focus con trỏ chuột vào input lỗi
+				obj_name.focus();
+			} else if (age == '') {
+				error = 'Tuổi phải nhập';
+				obj_age.focus();
+			} else if (email == '') {
+				error = 'Email phải nhập';
+				obj_email.focus();
+			} else if (isNaN(age)) {
+				error = 'Tuổi phải nhập số';
+				obj_age.focus();
+			} else if(!pattern_email.test(email)) {
+				error = 'Email chưa đúng định dạng';
+				obj_email.focus();
+			}
+			// + Nếu ko có lỗi xảy ra thì hiển thị popup cảnh báo: Liên hệ thành công
+			if (error == '') {
+				alert('Liên thành công');
+			}
+			// + Hiển thị error ra ngoài màn hình theo cơ chế ko tải lại trang
+			// Ngăn ngừa hành vi tải lại trang khi submit form
+			event.preventDefault();
+			document.getElementById('error').innerHTML = error;
+		});
+
+	</script>
+</body>
+</html>

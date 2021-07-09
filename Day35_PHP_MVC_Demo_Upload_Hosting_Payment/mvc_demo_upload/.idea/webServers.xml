@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+<<<<<<< HEAD
+      <webServer id="4d6e4f29-2f35-4374-b084-aaca11c9f1fd" name="mvc_demo" url="http://php0720e-2.itpsoft.com.vn">
+        <fileTransfer host="php0720e-2.itpsoft.com.vn" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+=======
+      <webServer id="cc614e3c-ce90-4c87-9021-6462512104a7" name="demo_mvc_upload" url="http://php0720e-10.itpsoft.com.vn">
+        <fileTransfer host="php0720e-10.itpsoft.com.vn" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+>>>>>>> 5e49c9cb34fd0eb9307b1f01dd9fe58ad3f01b18
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
